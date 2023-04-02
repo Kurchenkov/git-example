@@ -1,1 +1,2 @@
 print("exapmle2")
+echo "2"
